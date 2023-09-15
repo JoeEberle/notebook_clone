@@ -1,4 +1,4 @@
-# Notebook Clone  - Quickly Clone A notebook - Its EASY !!!   
+# Quickly Clone a notebook - Its EASY !!!   
 
 ![Code Logo](code.png)
 
@@ -8,7 +8,8 @@ CLone a notebook template :
 2. The notebook ALREADY logs its steps.
 3. The notebook ALREADY has a debugger.
 4. The notebook ALREADY documents itself
-4. The notebook ALREADY benchmarks its performance 
+5. The notebook ALREADY benchmarks its performance 
+6. The notebook ALREADY Tests itself 
 
 ![Code Logo](developer.png)
 
