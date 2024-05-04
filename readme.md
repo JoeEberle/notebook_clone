@@ -38,4 +38,4 @@ To get started with the **Notebook Clone** solution repository, follow these ste
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](notebook_clone.png)  <br>
+    ## Deliverables or Figures![additional_image](notebook_clone.png)  <br>![additional_image](solution_sign.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
