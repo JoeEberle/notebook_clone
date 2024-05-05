@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Notebook Clone - Solution for Notebook Clone
 Solution for Notebook Clone
 
@@ -9,8 +11,6 @@ Welcome to the solution **Notebook Clone** - an example for your projects
 Solution for Notebook Clone
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
